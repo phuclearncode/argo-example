@@ -9,3 +9,4 @@ configmap:
 
 image:
   name: phuclearndocker/gitops
+  newTag: v0.1.0
