@@ -18,7 +18,7 @@ spec:
     spec: # Pod spec
       containers:
       - name: mycontainer
-        image: "{{ .Values.image.name }}:{{ .Values.image.tag }}"
+        image: phuclearndocker/gitops
         ports:
         - containerPort: 3000
         envFrom:
