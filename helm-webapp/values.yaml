@@ -1,5 +1,5 @@
 appName: myhelmapp
-
+depoyName : mydeployhelm
 port: 3000
 
 configmap:
